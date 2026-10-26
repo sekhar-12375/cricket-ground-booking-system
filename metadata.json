@@ -1,0 +1,8 @@
+{
+  "name": "Cricket Ground Booking System",
+  "description": "Full-stack responsive web application for booking cricket grounds, checking slot availability, payment simulation, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
